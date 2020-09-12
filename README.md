@@ -1,5 +1,4 @@
-## Hi there, I'm Mohamed! 👋
-[![Github](https://img.shields.io/github/followers/mohamedadenn?label=Follow&style=social)](https://github.com/mohamedadenn)
+## Hi there, I'm Mohamed! 👋 [![Github](https://img.shields.io/github/followers/mohamedadenn?label=Follow&style=social)](https://github.com/mohamedadenn)
 
 ## 👦 About Me
 - 🎓 I'm a recent General Assembly Software Engineering Impressive student graduate
@@ -8,14 +7,6 @@
 - 🔭 I'm currently working on my portfolio and a few other side projects
 - 🥅 2020 Goals:
   - Start a weekly blog for beginner web developers!
-
-## 🌐 Connect with me
-
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ## 🛠️ Languages and Tools
 
@@ -36,8 +27,14 @@
 </p>
 <hr/>
 
+## 🌐 Connect with me
 
-<br />
+<p align="center">
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
+<hr/>
 <br />
 
 ## 🏆 My Github stats
