@@ -2,11 +2,7 @@
 
 ## 👦 About Me
 - 🎓 I'm a recent General Assembly Software Engineering Impressive student graduate
-- ⚛️ I have a deep interest in solving complex problems
-- ❤️ I love travelling
 - 🔭 I'm currently working on my portfolio and a few other side projects
-- 🥅 2020 Goals:
-  - Start a weekly blog for beginner web developers!
 
 ## 🛠️ Languages and Tools
 
@@ -25,8 +21,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
-
-
 
 ## 🌐 Connect with me
 
