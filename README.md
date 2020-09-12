@@ -25,7 +25,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
-<hr/>
+
 <br />
 
 ## 🌐 Connect with me
@@ -37,7 +37,7 @@
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </p>
-<hr/>
+
 <br />
 <br />
 ## 🏆 My Github stats
