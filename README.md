@@ -1,6 +1,4 @@
 ## Hi there, I'm Mohamed! 👋 [![Github](https://img.shields.io/github/followers/mohamedadenn?label=Follow&style=social)](https://github.com/mohamedadenn)
-
-## 👦 About Me
 - 🎓 I'm a recent General Assembly Software Engineering Impressive student graduate
 - 🔭 I'm currently working on my portfolio and a few other side projects
 
